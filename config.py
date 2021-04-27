@@ -57,4 +57,4 @@ LOG_FILE = "./log.txt"
 # On Linux, single forward slashes are okay.
 # Ex. "/usr/bin/geckodriver"
 # Set to None if geckodriver is in the PATH
-WEB_DRIVER_PATH = "/usr/bin/geckodriver"
+WEB_DRIVER_PATH = "\\DESKTOP-H5C409H\Users\rueli\Downloads\geckodriver-v0.29.1-win64"
