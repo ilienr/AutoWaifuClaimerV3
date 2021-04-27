@@ -8,7 +8,7 @@ SERVER_ID = 832446489666125834  # ID of Discord server
 USER_ID = 444616057739673602  # ID of main user
 
 # Bot token
-BOT_TOKEN = "ODM2NjI3NjM2MzQ3MzM4Nzgy.YIgwNA.ljktVEEm7Yeifi6eKdJ4cQpjiaM"
+BOT_TOKEN = "ODM2NjI3NjM2MzQ3MzM4Nzgy.YIgwNA.1sLSb67Jhx2QurW4C7CcVRhnUkQ"
 
 # Command prefix for Mudae and roll command to use.
 # Default setting below does $m
